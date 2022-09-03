@@ -24,6 +24,7 @@ public class main {
 				break;
 			default:
 				System.out.println("Хм... да ты везунчик!");
+				System.out.println("Покупал удачу?");
 		}
 	}
 }
