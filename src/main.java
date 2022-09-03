@@ -25,8 +25,6 @@ public class main {
 			default:
 				System.out.println("Хм... да ты везунчик!");
 				System.out.println("Покупал удачу?");
-				System.out.println("Так держать!");
-				System.out.println("Так держать!");
 				System.out.println("Так держать салага!");
 		}
 	}
