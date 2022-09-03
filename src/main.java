@@ -24,8 +24,11 @@ public class main {
 				break;
 			default:
 				System.out.println("Хм... да ты везунчик!");
+<<<<<<< HEAD
 				System.out.println("Покупал удачу?");
 				System.out.println("Так держать салага!");
+=======
+>>>>>>> 4ea3b392ea878fc38a0186bc9a97570b0a2d5e19
 		}
 	}
 }
