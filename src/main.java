@@ -24,6 +24,8 @@ public class main {
 				break;
 			default:
 				System.out.println("Хм... да ты везунчик!");
+				System.out.println("Так держать!");
+				System.out.println("Так держать!");
 		}
 	}
 }
